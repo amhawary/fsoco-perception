@@ -54,6 +54,6 @@ data_yaml = {
     'val': 'val/images',
     'test': 'test/images',
 }
-with open('dataset02/data_fixed.yaml', 'w') as f:
+with open('dataset02/data.yaml', 'w') as f:
     yaml.dump(data_yaml, f, default_flow_style=False)
-print("✅ New data_fixed.yaml written.")
+print("✅ New data.yaml written.")
