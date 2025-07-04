@@ -6,3 +6,4 @@ supervisely/
 supervisely_seg/
 fsoco_bounding_boxes_train.zip
 fsoco_segmentation_train.zip
+venv/
