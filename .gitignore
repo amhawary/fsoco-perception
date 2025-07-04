@@ -1,0 +1,8 @@
+dataset/
+dataset01/
+dataset02/
+runs/
+supervisely/
+supervisely_seg/
+fsoco_bounding_boxes_train.zip
+fsoco_segmentation_train.zip
